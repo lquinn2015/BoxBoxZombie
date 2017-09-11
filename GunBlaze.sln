@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunBlaze", "GunBlaze.csproj", "{EA888A8C-E2B9-B748-33E8-BBC51D73DBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunBlaze.Editor", "GunBlaze.Editor.csproj", "{65E97A1B-BF00-6857-CAC9-03A601AC8374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA888A8C-E2B9-B748-33E8-BBC51D73DBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA888A8C-E2B9-B748-33E8-BBC51D73DBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA888A8C-E2B9-B748-33E8-BBC51D73DBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA888A8C-E2B9-B748-33E8-BBC51D73DBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E97A1B-BF00-6857-CAC9-03A601AC8374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E97A1B-BF00-6857-CAC9-03A601AC8374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E97A1B-BF00-6857-CAC9-03A601AC8374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E97A1B-BF00-6857-CAC9-03A601AC8374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
